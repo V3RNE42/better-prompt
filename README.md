@@ -60,4 +60,6 @@ MIT — do what you want, attribution appreciated.
 
 ## Source
 
-HELIOS — [arxiv 2601.14598](https://arxiv.org/abs/2601.14598)
+HELIOS paper [arxiv 2601.14598](https://arxiv.org/abs/2601.14598) — hierarchical CFG/call-graph structured input for LLM decompilation.
+
+Core finding: structure of input > model choice > prompt length
