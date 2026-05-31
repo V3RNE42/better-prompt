@@ -1,6 +1,6 @@
 ---
 name: better-prompt
-description: Use when asked to improve, rewrite, or strengthen a prompt for any LLM task. Also use when a prompt is producing shallow, incomplete, or structurally weak responses.
+description: Use when asked to improve, rewrite, or strengthen a prompt for any LLM task, be it for yourself or for invoking a subagent. Also use when a prompt is producing shallow, incomplete, or structurally weak responses.
 ---
 
 # Better Prompt — Structured Input Pattern
